@@ -7,7 +7,7 @@ This repository contains implementations of various artificial intelligence algo
    - Description: Implementation of the Breadth First Search algorithm for solving the 8 Puzzle problem.
 
  2. **Water Jug Problem - Depth First Search**
-   - Directory: `water_jug_dfs`
+   - Directory: `water_jug_dfs` 
    - Description: Implementation of Depth First Search algorithm to solve the Water Jug problem.
 
  3. **A* Algorithm**
